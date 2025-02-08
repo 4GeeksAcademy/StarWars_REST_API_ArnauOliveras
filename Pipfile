@@ -6,10 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "*"
 sqlalchemy = "*"
-flask-sqlalchemy = "*"
-flask-migrate = "*"
 flask-swagger = "*"
 psycopg2-binary = "*"
 python-dotenv = "*"
