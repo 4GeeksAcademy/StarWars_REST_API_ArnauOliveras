@@ -15,6 +15,7 @@ flask-cors = "*"
 gunicorn = "*"
 mysqlclient = "*"
 flask-admin = "*"
+flask-migrate = "*"
 
 [requires]
 python_version = "3.10"
